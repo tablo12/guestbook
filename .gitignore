@@ -11,6 +11,7 @@
 .mtj.tmp/
 
 # Package Files #
+application.properties
 *.jar
 *.war
 *.nar
